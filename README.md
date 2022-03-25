@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**leandrodesouzadev/leandrodesouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leandro. I'm python backend developer from Brazil working at [Plathanus-Tech](https://github.com/plathanus-tech)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been working with:
+
+- :rocket: Creating Web Applications with Django. Apis using DRF and FastAPI.
+- :construction_worker: Developing Open-Source Small Plugins for Django and DRF.
+- :spiral_notepad: Translating Documentation to Brazilian Portuguese for FastAPI.
+- :seedling: Learning GraphQl, NodeJs
+- :mortar_board: Teaching new python developers to master Django and Python
+
+I've already worked on:
+- :spider: Web Scraping using Playwright, Selenium, Requests and Scrapy.
+- :abcd: Optimized PostgreSQL databases for Large-Scale applications.
+- :globe_with_meridians: Web Application using Flask.
+
+
+
+:mailbox_with_mail: You can reach me at: leandrodesouzadev@gmail.com
