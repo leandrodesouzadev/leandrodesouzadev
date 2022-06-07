@@ -16,6 +16,8 @@ I've already worked on:
 - :abcd: Optimized PostgreSQL databases for Large-Scale applications.
 - :globe_with_meridians: Web Application using Flask.
 
-
+I'm the creator and main maintainer of:
+- :rocket: [Inject-It](https://github.com/plathanus-tech/python-inject-it)
+- :rocket: [Django-Brazilian-Zipcode](https://github.com/plathanus-tech/django-brazilian-zipcode)
 
 :mailbox_with_mail: You can reach me at: leandrodesouzadev@gmail.com
