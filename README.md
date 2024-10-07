@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Leandro. I'm python backend developer from Brazil working at [Plathanus-Tech](https://github.com/plathanus-tech).
+My name is Leandro. I'm python backend developer from Brazil working at [BID Capital](https://bid.capital/).
 I love to contribute with open-source projects, learn, and teach people.
 
 
@@ -12,7 +12,6 @@ I've been working with:
 - :seedling: Learning NodeJs, React & React-Native
 - :mortar_board: Teaching new python developers to master Django and Python
 - :scroll: Actively answering questions at [Django Forum](https://forum.djangoproject.com/)
-- :chart_with_upwards_trend: Helping [Plathanus](https://plathanus.com.br) plan and deliver products faster.
 
 I've already worked on:
 - :spider: Web Scraping using Playwright, Selenium, Requests and Scrapy.
